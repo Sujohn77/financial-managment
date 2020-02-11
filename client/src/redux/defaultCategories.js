@@ -1,0 +1,26 @@
+export const defaultCategories = [
+    {
+        name:"Продукты",
+        expenses:[]
+    },
+    {
+        name:"Транспорт",
+        expenses:[]
+    },
+    {
+        name:"Развлечение",
+        expenses:[]
+    },
+    {
+        name:"Отдых",
+        expenses:[]
+    },
+    {
+        name:"Здоровье",
+        expenses:[]
+    },
+    {
+        name:"Одежда",
+        expenses:[]
+    }
+]
